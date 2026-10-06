@@ -1,9 +1,9 @@
 {
   "artifact": "class10.db",
-  "db_version": "muwndw4x-q146-c4",
-  "compiled_at": "2026-10-06T12:21:17.169Z",
-  "size_bytes": 606208,
-  "sha256": "63b1441179f1faf45da82753bc42f75fad69c4f08dc038a7b99bca578b32c0bf",
+  "db_version": "muwq1g2e-q185-c4",
+  "compiled_at": "2026-10-06T13:35:35.318Z",
+  "size_bytes": 786432,
+  "sha256": "008eeba4ea62f776473a26b5ec3f63015c74db5a330e2cbb80ab48a00b40c7bf",
   "classNumber": 10,
   "files": [
     {
