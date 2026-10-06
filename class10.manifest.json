@@ -1,0 +1,46 @@
+{
+  "artifact": "class10.db",
+  "db_version": "muwndw4x-q146-c4",
+  "compiled_at": "2026-10-06T12:21:17.169Z",
+  "size_bytes": 606208,
+  "sha256": "63b1441179f1faf45da82753bc42f75fad69c4f08dc038a7b99bca578b32c0bf",
+  "classNumber": 10,
+  "files": [
+    {
+      "file_id": "c10_mathemat_ch1_ncert",
+      "resource_id": "c10_mathemat_ch1_ncert",
+      "file_name": "ncert_class10_maths_ch1.pdf",
+      "kind": "ncert",
+      "url": "c10/math/ch1/c10_mathemat_ch1_ncert.pdf",
+      "size_bytes": 1534149,
+      "sha256": ""
+    },
+    {
+      "file_id": "c10_mathemat_ch2_ncert",
+      "resource_id": "c10_mathemat_ch2_ncert",
+      "file_name": "jemh102.pdf",
+      "kind": "ncert",
+      "url": "c10/math/ch2/c10_mathemat_ch2_ncert.pdf",
+      "size_bytes": 1686285,
+      "sha256": ""
+    },
+    {
+      "file_id": "c10_mathemat_ch3_ncert",
+      "resource_id": "c10_mathemat_ch3_ncert",
+      "file_name": "NCERT_Class_10_Mathematics_Ch03_Pair_of_Linear_Equations_in_Two_Variables.pdf",
+      "kind": "ncert",
+      "url": "c10/math/ch3/c10_mathemat_ch3_ncert.pdf",
+      "size_bytes": 2084232,
+      "sha256": "d04ef69d830a97243be9bd1cab0aa82399056f0f4a621bb71bbe97ecd1dfa147"
+    },
+    {
+      "file_id": "mock_1788351240798_kd2p1",
+      "resource_id": "c10_mathemat_ch1_mock",
+      "file_name": "Class10-20m-Mock-test-1.pdf",
+      "kind": "mock-paper",
+      "url": "c10/math/ch1/mocktest/Class10-20m-Mock-test-1.pdf",
+      "size_bytes": 88343,
+      "sha256": ""
+    }
+  ]
+}
