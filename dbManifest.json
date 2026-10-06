@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-10-06T12:11:04.582Z",
+  "databases": {
+    "pyq": {
+      "file": "pyq.3ae3af7fbe8ccac737447729f931914336d7a9a81a00e07a95981d3a4a97152c.db",
+      "sha256": "3ae3af7fbe8ccac737447729f931914336d7a9a81a00e07a95981d3a4a97152c",
+      "dbVersion": "muwn0nnp-q0-c1",
+      "compiledAt": "2026-10-06T12:10:59.653Z",
+      "sizeBytes": 81920,
+      "manifest": "pyq.manifest.json"
+    }
+  }
+}
