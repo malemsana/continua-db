@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T13:35:38.947Z",
+  "updatedAt": "2026-10-09T10:16:00.419Z",
   "databases": {
     "pyq": {
       "file": "pyq.3ae3af7fbe8ccac737447729f931914336d7a9a81a00e07a95981d3a4a97152c.db",
@@ -10,11 +10,11 @@
       "manifest": "pyq.manifest.json"
     },
     "class10": {
-      "file": "class10.008eeba4ea62f776473a26b5ec3f63015c74db5a330e2cbb80ab48a00b40c7bf.db",
-      "sha256": "008eeba4ea62f776473a26b5ec3f63015c74db5a330e2cbb80ab48a00b40c7bf",
-      "dbVersion": "muwq1g2e-q185-c4",
-      "compiledAt": "2026-10-06T13:35:35.318Z",
-      "sizeBytes": 786432,
+      "file": "class10.f57adc30596f7423f0d10dd698f9b4e0bc69fe7f67bc448b819f278746bbed1f.db",
+      "sha256": "f57adc30596f7423f0d10dd698f9b4e0bc69fe7f67bc448b819f278746bbed1f",
+      "dbVersion": "mv0t88d1-q198-c5",
+      "compiledAt": "2026-10-09T10:15:55.477Z",
+      "sizeBytes": 839680,
       "manifest": "class10.manifest.json"
     }
   }

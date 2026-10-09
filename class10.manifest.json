@@ -1,9 +1,9 @@
 {
   "artifact": "class10.db",
-  "db_version": "muwq1g2e-q185-c4",
-  "compiled_at": "2026-10-06T13:35:35.318Z",
-  "size_bytes": 786432,
-  "sha256": "008eeba4ea62f776473a26b5ec3f63015c74db5a330e2cbb80ab48a00b40c7bf",
+  "db_version": "mv0t88d1-q198-c5",
+  "compiled_at": "2026-10-09T10:15:55.477Z",
+  "size_bytes": 839680,
+  "sha256": "f57adc30596f7423f0d10dd698f9b4e0bc69fe7f67bc448b819f278746bbed1f",
   "classNumber": 10,
   "files": [
     {
@@ -31,7 +31,16 @@
       "kind": "ncert",
       "url": "c10/math/ch3/c10_mathemat_ch3_ncert.pdf",
       "size_bytes": 2084232,
-      "sha256": "d04ef69d830a97243be9bd1cab0aa82399056f0f4a621bb71bbe97ecd1dfa147"
+      "sha256": ""
+    },
+    {
+      "file_id": "c10_mathemat_ch4_ncert",
+      "resource_id": "c10_mathemat_ch4_ncert",
+      "file_name": "NCERT_Class_10_Mathematics_Ch04_Quadratic_Equations.pdf",
+      "kind": "ncert",
+      "url": "c10/math/ch4/c10_mathemat_ch4_ncert.pdf",
+      "size_bytes": 1499207,
+      "sha256": "9aca4b28ad57ae78a5e69ce67d19344c44b1390c5b8afd13db83b46ad54e8e9d"
     },
     {
       "file_id": "mock_1788351240798_kd2p1",
