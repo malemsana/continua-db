@@ -1,9 +1,9 @@
 {
   "artifact": "class10.db",
-  "db_version": "mv4rt156-q260-c17",
-  "compiled_at": "2026-10-12T04:47:11.370Z",
-  "size_bytes": 1159168,
-  "sha256": "febeea930be4b38c7432967cab4116ac957cea28514e035b1b2b9abb4aead45b",
+  "db_version": "mvdlgdph-q361-c17",
+  "compiled_at": "2026-10-18T08:59:19.013Z",
+  "size_bytes": 1593344,
+  "sha256": "dcff49406dc458d67575dd6b888a4bd8ee2a67d808bf53c7a28551b096f7ff95",
   "classNumber": 10,
   "files": [
     {
@@ -41,6 +41,33 @@
       "url": "c10/math/ch4/c10_mathemat_ch4_ncert.pdf",
       "size_bytes": 1499207,
       "sha256": "9aca4b28ad57ae78a5e69ce67d19344c44b1390c5b8afd13db83b46ad54e8e9d"
+    },
+    {
+      "file_id": "c10_mathemat_ch5_ncert",
+      "resource_id": "c10_mathemat_ch5_ncert",
+      "file_name": "NCERT_Class_10_Mathematics_Ch05_Arithmetic_Progressions (1).pdf",
+      "kind": "ncert",
+      "url": "c10/math/ch5/c10_mathemat_ch5_ncert.pdf",
+      "size_bytes": 2357823,
+      "sha256": "1367857e5cd3206b1862655d17bf31778e6af768821d8dfc8c71d3ea0e19274c"
+    },
+    {
+      "file_id": "c10_mathemat_ch6_ncert",
+      "resource_id": "c10_mathemat_ch6_ncert",
+      "file_name": "NCERT_Class_10_Mathematics_Ch06_Triangles.pdf",
+      "kind": "ncert",
+      "url": "c10/math/ch6/c10_mathemat_ch6_ncert.pdf",
+      "size_bytes": 2799087,
+      "sha256": "028a1243ccd005e952fca0f9c498be86cd526b74deb0bc6cd5147e15eef12f58"
+    },
+    {
+      "file_id": "c10_mathemat_ch8_ncert",
+      "resource_id": "c10_mathemat_ch8_ncert",
+      "file_name": "NCERT_Class_10_Mathematics_Ch08_Introduction_to_Trigonometry.pdf",
+      "kind": "ncert",
+      "url": "c10/math/ch8/c10_mathemat_ch8_ncert.pdf",
+      "size_bytes": 2230227,
+      "sha256": "5a4033fd2ab3fbb245f783a3e2c24fb5c31a00ae7fa7b9a7212633d11e06d2ac"
     },
     {
       "file_id": "mock_1788351240798_kd2p1",
